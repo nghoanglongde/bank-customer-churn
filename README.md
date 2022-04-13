@@ -2,7 +2,7 @@
 This project compares the performance of three supervised classification techniques to suggest an efficient model to predict customer churn in banking industry
 
 ## Objective
-1. Design and implement data pipeline for pre-processing the raw dataset. 
+1. Design and implement a data pipeline for pre-processing the raw dataset. 
 2. Compare the performance of two supervised regression techniques to suggest an efficient model for predicting the price
 
 ## Dataset overview
