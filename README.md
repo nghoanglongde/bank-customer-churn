@@ -3,7 +3,7 @@ This project compares the performance of three supervised classification techniq
 
 ## Objective
 1. Design and implement a data pipeline for pre-processing the raw dataset. 
-2. Compare the performance of two supervised regression techniques to suggest an efficient model for predicting the price
+2. Compare the performance of three supervised classification techniques to suggest an efficient model for predicting which customer will leave the bank
 
 ## Dataset overview
 **Dataset:** [Link](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers) 
